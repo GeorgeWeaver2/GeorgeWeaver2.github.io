@@ -3,6 +3,7 @@
 
  Public Tableau Visualizations: https://public.tableau.com/app/profile/george.weaver1802/vizzes
 
+**Amerisource Bergen Project:**
 My First Project was for AMerisource Bergen, a major prescription manufactorer, that was losing revenue because its client pharamacies were buying prescriptions outside of the Prefered Vendor Agreement (PVA).My team was
 given 3 items to help us idetify a possible cause to this issue: the phramacy transaction log, a data dictionary explaining the terms in the transaction log, and a "PRN to family" documents which matched drug PRN number to its "family".  My team had about a month to finish this
 
@@ -31,3 +32,6 @@ Results:
 
 consultions
 We needed a possible cuasefor this an found that phramacies tended to keep a heavy reserve of "emergency" p0rescription to ensure that they could fill prescriotiions even if the delivery trucks were delayed. It may have beena buffer again the time risk of Just in time logistics
+
+**Pfizer Quitters Circle Project**
+Goal
